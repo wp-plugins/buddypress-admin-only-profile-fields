@@ -1,6 +1,6 @@
 === BuddyPress Admin Only Profile Fields ===
 Contributors: A5hleyRich
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=95AQB5DP83XAU
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S6KBW2ZSVZ8RE
 Tags: buddypress, admin, hidden, profile, field, visibility
 Requires at least: 4.1
 Tested up to: 4.1
@@ -13,6 +13,14 @@ Easily set the visibility of BuddyPress profile fields to hidden, allowing only 
 == Description ==
 
 Easily set the visibility of BuddyPress profile fields to hidden, allowing only admin users to edit and view them.
+
+**Documentation**
+
+The BuddyPress Admin Only Profile Fields documentation can be found [here](http://ashleyrich.com/documentation/category/buddypress-admin-only-profile-fields/).
+
+**GitHub**
+
+If you would like to contribute to the plugin, you can do so on [GitHub](https://github.com/A5hleyRich/BuddyPress-Admin-Only-Profile-Fields).
 
 == Installation ==
 
@@ -28,7 +36,7 @@ Add the following filter to your theme’s functions.php file, substituting *man
 
 == Screenshots ==
 
-1. Edit field BuddyPress screen.
+
 
 == Changelog ==
 
