@@ -14,10 +14,6 @@ Easily set the visibility of BuddyPress profile fields to hidden, allowing only 
 
 Easily set the visibility of BuddyPress profile fields to hidden, allowing only admin users to edit and view them.
 
-**Documentation**
-
-The BuddyPress Admin Only Profile Fields documentation can be found [here](http://ashleyrich.com/documentation/category/buddypress-admin-only-profile-fields/).
-
 **GitHub**
 
 If you would like to contribute to the plugin, you can do so on [GitHub](https://github.com/A5hleyRich/BuddyPress-Admin-Only-Profile-Fields).
@@ -28,6 +24,12 @@ If you would like to contribute to the plugin, you can do so on [GitHub](https:/
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
+
+= How do I hide a profile field? =
+
+In the WordPress admin area, go to *Users > Profile Fields* and click *Edit* on the desired profile field. Under the *Default Visibility* panel select *Hidden* as the value and click *Save*.
+
+The profile field is now hidden from all users except Administrators.
 
 = How do I change who can view and edit the hidden field? =
 
