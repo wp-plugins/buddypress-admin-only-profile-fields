@@ -66,7 +66,7 @@ add_filter( 'bp_admin_only_profile_fields_cap', 'custom_profile_fields_visibilit
 
 = 1.1 =
 
-* General improvements
+* General improvements 
 
 = 1.0 =
 
