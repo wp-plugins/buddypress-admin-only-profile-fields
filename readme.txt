@@ -1,4 +1,4 @@
-ls=== BuddyPress Admin Only Profile Fields ===
+=== BuddyPress Admin Only Profile Fields ===
 Contributors: A5hleyRich
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S6KBW2ZSVZ8RE
 Tags: buddypress, admin, hidden, profile, field, visibility
